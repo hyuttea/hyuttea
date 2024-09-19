@@ -10,7 +10,7 @@
 import Desenvolvedor from "Ruan Macionil";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Ruan Macionil";
+  nome = "Rafael ";
   area = "DEV";
   trabalho = "Metro SP";
   local = "Vila Mariana - SP";
