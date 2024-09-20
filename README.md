@@ -8,9 +8,9 @@
 
 ```js
 
-  nome = "Rafael ";
-  area = "DEV";
-  trabalho = "Metro SP";
+  nome = Rafael
+  area = DEV
+  trabalho = Metro SP
 
 
 ```
