@@ -8,11 +8,9 @@
 
 ```js
 
-class SobreMim extends Desenvolvedor {
   nome = "Rafael ";
   area = "DEV";
   trabalho = "Metro SP";
-}
 
 
 ```
