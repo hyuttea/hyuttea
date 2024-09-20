@@ -7,13 +7,11 @@
 
 
 ```js
-import Desenvolvedor from "Ruan Macionil";
 
 class SobreMim extends Desenvolvedor {
   nome = "Rafael ";
   area = "DEV";
   trabalho = "Metro SP";
-  local = "Vila Mariana - SP";
 }
 
 
