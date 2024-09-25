@@ -3,7 +3,7 @@
 
  <img align='right' src="https://github.com/Macionil-San/rachi/blob/main/dbzrgxa-96a07b17-1dc4-4a0d-bf10-f5f5150108ad.gif?raw=true" width="230">
 
-### <img src="tumblr_5f0c85c1c346faaaf817269d0ec5530c_2de778b1_500.png" width="50"> A little more about me...  
+### <img src="[tumblr_5f0c85c1c346faaaf817269d0ec5530c_2de778b1_500.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dpersona%2B5&psig=AOvVaw2YH77bUYr-70Rd9gDUrd61&ust=1727348840578000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCKDb5Yb63YgDFQAAAAAdAAAAABAT)" width="50"> A little more about me...  
 
 
 ```js
