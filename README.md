@@ -8,9 +8,8 @@
 
 ```js
 
-  nome = Rafael
-  area = DEV
-  trabalho = Metro SP
+  nome = Rafael | idade = 19 | novo nesse mundo
+
 
 
 ```
