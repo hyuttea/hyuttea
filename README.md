@@ -6,14 +6,9 @@
 ### <img src="https://github.com/hyuttea/hyuttea/blob/main/5c2c3fcde32d05876b963b3094a532de.png?raw=true" width="80"> A little more about me...  
 
 
-```js
-
-  nome = Rafael | idade = 19 | Brasil 
-
-
-
 ```
-
+ Senai - Desenvolvimento de Sistemas
+```
 
 
 <table>
