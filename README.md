@@ -7,7 +7,7 @@
 
 
 ```
- Senai - Desenvolvimento de Sistemas
+ Tec. Desenvolvimento de Sistemas
 ```
 
 
