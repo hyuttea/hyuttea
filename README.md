@@ -12,20 +12,21 @@
 ```
 
 
+## Minhas Estatístias
 <table>
   <tr>
     <td>
      <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api?username=hyuttea&show_icons=true&theme=maroongold" alt="Github stats" />
       </td>
     <td>
-<img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuttea&theme=maroongold&hide_&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+     <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuttea&theme=maroongold&hide_&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
   </td>
   
   </tr>
 </table><br/>
 
-#
-## O que estou aprendendo:
+
+## Estou aprendendo:
 
 <div align="center" style="display: inline_block"><br/>
     <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -54,7 +55,7 @@
  
  
 <div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3> <img src="https://github.com/Macionil-San/rachi/blob/main/persona-futaba.gif?raw=true" width="190">
+  <h3><b> Profile Visitor Count</b></h3> <img src="https://github.com/Macionil-San/rachi/blob/main/persona-futaba.gif?raw=true" width="190">
 </div>
     
 <p align="center" >   
