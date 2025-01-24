@@ -12,7 +12,7 @@
 ```
 
 
-## Minhas Estatístias
+## Minhas Estatístias:
 <table>
   <tr>
     <td>
