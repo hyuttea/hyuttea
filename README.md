@@ -14,10 +14,10 @@
 <table>
   <tr>
     <td>
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyuttea&show_icons=true&theme=radical" alt="Github stats" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyuttea&show_icons=true&theme=maroongold" alt="Github stats" />
       </td>
     <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuttea&theme=dark&hide_&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuttea&theme=maroongold&hide_&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
   </td>
   
   </tr>
@@ -31,6 +31,7 @@
     <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=black=flat-square"/>
 </div>
 
 <br/>
