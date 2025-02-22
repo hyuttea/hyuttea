@@ -8,7 +8,7 @@
 
 ```
  Tec. Desenvolvimento de Sistemas
- São Paulo | 19 anos | amante de design
+ São Paulo | 19 anos | Front-end
 ```
 
 
