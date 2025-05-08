@@ -3,7 +3,7 @@
 
  <img align='right' src="https://github.com/Macionil-San/rachi/blob/main/dbzrgxa-96a07b17-1dc4-4a0d-bf10-f5f5150108ad.gif?raw=true" width="230">
 
-### <img src="https://github.com/hyuttea/hyuttea/blob/main/5c2c3fcde32d05876b963b3094a532de.png?raw=true" width="80"> A little more about me...  
+###  A little more about me...  
 
 
 ```
