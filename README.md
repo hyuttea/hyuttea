@@ -1,15 +1,15 @@
 
 
 
- <img align='right' src="https://github.com/Macionil-San/rachi/blob/main/dbzrgxa-96a07b17-1dc4-4a0d-bf10-f5f5150108ad.gif?raw=true" width="220">
+ <img align='right' src="https://github.com/Macionil-San/rachi/blob/main/dbzrgxa-96a07b17-1dc4-4a0d-bf10-f5f5150108ad.gif?raw=true" width="200">
 
-###  A little more about me...  
+##  A little more about me...  
 
 
-```
+
  Tec. Desenvolvimento de Sistemas
- São Paulo | 19 anos | Front-end
-```
+ <p>São Paulo | 19 anos | Front-end
+
 
 
 ## Minhas Estatísticas:
