@@ -1,14 +1,14 @@
 
 
 
- <img align='right' src="https://github.com/Macionil-San/rachi/blob/main/dbzrgxa-96a07b17-1dc4-4a0d-bf10-f5f5150108ad.gif?raw=true" width="200">
-
-##  A little more about me...  
 
 
+<h1 align=center >A little more about me...  </h1>
 
- Tec. Desenvolvimento de Sistemas
- <p>São Paulo | 19 anos | Front-end
+
+
+<h4 align=center> Tec. Desenvolvimento de Sistemas
+ <p>São Paulo | 19 anos | Front-end </h4>
 
 
 
@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>
-     <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api?username=hyuttea&show_icons=true&theme=shadow_red" alt="Github stats" />
+     <img  height="150em"  align="center" src="https://github-readme-stats.vercel.app/api?username=hyuttea&show_icons=true&theme=shadow_red" alt="Github stats" />
       </td>
     <td>
      <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuttea&theme=shadow_red&hide_&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
