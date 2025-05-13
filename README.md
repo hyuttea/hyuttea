@@ -37,9 +37,7 @@
  
  
 <div align=center>
-  <h3><b> Profile Visitor Count</b></h3> <img src="https://github.com/Macionil-San/rachi/blob/main/persona-futaba.gif?raw=true" width="190">
+  <img src="https://github.com/Macionil-San/rachi/blob/main/persona-futaba.gif?raw=true" width="300">
 </div>
     
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/hyuttea/count.svg" />  
-</p>
+
