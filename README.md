@@ -27,5 +27,5 @@
 <br>
  
 <div align=center>
-  <img src="https://github.com/Macionil-San/rachi/blob/main/persona-futaba.gif?raw=true" width="300">
+  <img src="futaba-gif.gif" width="300">
 </div>
