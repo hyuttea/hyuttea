@@ -3,7 +3,9 @@
 <h4 align=center> Sou Tec. em Desenvolvimento de Sistemas pelo Senai.
 <p>Atualmente estou focando meus estudos no Front-end.</p>
 <p> | HTML | JavaScript | CSS |</p>
-<p>BootStrap Framework</p></h4>
+<p>BootStrap Framework</p>
+<p>Java | SQL   </p> </h4>
+
 
 ##
 
