@@ -27,5 +27,5 @@
 <br>
  
 <div align=center>
-  <img src="futaba-gif.gif" width="300">
+  <img src="futaba-gif.gif" width="250">
 </div>
