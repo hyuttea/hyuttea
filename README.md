@@ -1,10 +1,9 @@
 
 <h1 align=center >🏮Olá! Meu nome é Rafael🏮</h1>
 <h4 align=center> Sou Tec. em Desenvolvimento de Sistemas pelo Senai.
-<p>Atualmente estou focando meus estudos no Front-end.</p>
-<p> | HTML | JavaScript | CSS |</p>
-<p>BootStrap Framework</p>
-<p>Java | SQL   </p> </h4>
+<p>HTML | CSS | JavaScript | Java | SQL | Kotlin   </p>
+<p></p> </h4>
+
 
 
 ##
