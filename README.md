@@ -9,11 +9,9 @@
 ##
 
 <div align="center">
-  <img  height="150em"  align="center" src="https://github-readme-stats.vercel.app/api?username=hyuttea&show_icons=true&theme=shadow_red" alt="Github stats" />
-  <img  height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuttea&theme=shadow_red&hide_&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+  <img  height="153m"  align="center" src="https://github-readme-stats.vercel.app/api?username=hyuttea&show_icons=true&theme=shadow_red" alt="Github stats" />
+  <img  height="153em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuttea&theme=shadow_red&hide_&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
 </div>
-
-## 
 
 <div align="center" style="display: inline_block"><br/>
     <img align="center" alt="" src="https://img.shields.io/badge/HTML5-darkred?style=for-the-badge&logo=html5&logoColor=white"/>
