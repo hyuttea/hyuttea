@@ -1,7 +1,7 @@
 
 <h1 align=center >🏮Olá! Meu nome é Rafael🏮</h1>
 <h4 align=center> Sou Tec. em Desenvolvimento de Sistemas pelo Senai.
-<p>React | JavaScript | Java | SQL | Kotlin | Android  </p>
+<p>React | JavaScript | Java | SQL | Kotlin | IoT  </p>
 <p></p> </h4>
 
 
